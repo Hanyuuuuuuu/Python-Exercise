@@ -1,0 +1,5 @@
+In Python you can list
+In Python you can str
+In Python you can for
+In Python you can if
+In Python you can while
